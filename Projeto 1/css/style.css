@@ -1,15 +1,15 @@
-body {
-    background-color: #f7f7f7;
+#body {
+    background-color: #46c171c0;
     font-family: Verdana;
     margin: auto;
     }
 
     .photo {
-    border: 2px solid #505050;
+    border: 3px solid #323a3c;
     border-radius: 50px;
     }
-    #title, .subtitle, .post_title {
-    color: #505050;
+    #title, .subtitle {
+    color: #ffffff;
     
     }
     
@@ -20,7 +20,7 @@ body {
     }  
     a {
     text-decoration: line-through;
-    color: #505050;
+    color: #ffffff;
     }
     .subtitle {
         font-family: 'Oswald', sans-serif;
@@ -29,14 +29,15 @@ body {
         font-size: 16px;
         font-style: italic;
         font-family: 'Oswald', sans-serif;
+        color: #101010;
     }
 
     .post {
         background: #fff;
         padding: 10px;
-        border: 3px solid #505050;
+        border: 3px solid #323a3c;
         margin-bottom: 15px;
-        border-radius: 5px;
+        border-radius: 7px;
         font-family: 'Anonymous Pro', monospace;
         
     } 
@@ -50,7 +51,8 @@ body {
     .post_image {
         margin-bottom: 15px;
         width: 100%;
-
+        border-radius: 3px;
+        border: 1px solid
     }
     .menu {
         margin: 0;
