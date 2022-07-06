@@ -1,0 +1,58 @@
+body{
+    background-color:black;
+    width: 592px;
+    height: 320px;
+}
+
+h1 {
+    padding: 7%;
+    margin: 5%;
+    font-size: 30px;
+    color: white;
+    width: 600px;
+    height: 8px;
+
+}
+
+img{
+    width:55px;
+    height: 55px;
+}
+textarea {
+    padding: 4%;
+    margin: 5%;
+    font-size:20px;
+    text-align: center;
+    color: black;
+    width: 592px;
+    height: 73px;
+    left:100%;
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    width: 592px;
+    height: 73px;
+    display: flow-root list-item;
+    color: gray;
+    opacity : 0.5;
+    
+  }
+
+  button {
+    padding: 4%;
+    margin: 5%;
+    letter-spacing: 3px;
+    font-size: 15px;
+    text-align: center;
+    width: 592px;
+    height: 73px;
+    display: flow-root list-item;
+    color: black;
+
+  }
+  a {
+    text-decoration: none;
+    color:red;
+  }
