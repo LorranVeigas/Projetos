@@ -1,0 +1,40 @@
+body{
+    background-color:black;
+    width: 592px;
+    height: 320px;
+}
+
+h1 {
+    padding: 7%;
+    margin: 5%;
+    font-size: 40px;
+    color: white;
+    width: 600px;
+    height: 8px;
+
+}
+
+img{
+    width:55px;
+    height: 55px;
+}
+textarea {
+    padding: 4%;
+    margin: 5%;
+    font-size:20px;
+    text-align: center;
+    color: black;
+    width: 592px;
+    height: 73px;
+    left:100%;
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    width: 250px;
+    height: 0px;
+    display: flow-root list-item;
+    color: gray;
+    opacity : 0.5;
+  }
